@@ -44,5 +44,6 @@ The target variable in the dataset is a categorical variable representing the cl
 - **Number of Classes**: 3
 
 
-##to run this project you have to have Python locally installed along with all the requirements in the requirements.txt
+## RUN Project 
+you have to have Python locally installed along with all the requirements in the requirements.txt
 
